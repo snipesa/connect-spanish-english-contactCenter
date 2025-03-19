@@ -87,10 +87,4 @@ def lambda_handler(event, context):
 ---
 
 ## 📌 Next Steps
-Would you like:
-✅ **A CloudFormation template to automate deployment?**
-✅ **A working demo with sample chat UI?**
-✅ **Further optimization for additional languages?**
-
-Let me know how you'd like to proceed! 🚀
 
